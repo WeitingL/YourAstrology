@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourAstrology</string>
+    <string name="monthTitle">月</string>
+    <string name="dayTitle">日</string>
+</resources>
